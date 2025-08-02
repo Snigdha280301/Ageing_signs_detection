@@ -48,6 +48,7 @@ model = Sequential([
     Flatten(),
     Dense(4, activation="sigmoid")
 ])
+```
 
 ### 5. Training Configuration
 
